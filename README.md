@@ -7,6 +7,10 @@
 
 ---
 
+**[Launch Llama](https://tools.launchllama.co)** is the full distribution stack — **55k+ newsletter** subscribers, **manual submission to 200+ backlinks**, and **directory traffic**. [Submit your product →](https://tools.launchllama.co/submit)
+
+---
+
 ## 🌐 SaaS Listing Directories
 
 * [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter.
@@ -67,12 +71,6 @@
 Contributions welcome! Open a [pull request](https://github.com/tom-otto-engineer/awesome-saas-directories/pulls) or [issue](https://github.com/tom-otto-engineer/awesome-saas-directories/issues) to suggest additions or fixes.
 
 Please only add platforms that are **free or freemium to submit**, actively maintained, and useful for founders launching a product.
-
----
-
-## 🔗 Full directory
-
-This list is curated from the [Launch Llama startup directory tracker](https://tools.launchllama.co/tools/launch-directories) — 31 hand-picked entries here, 600+ total with DR scores, dofollow filters, and submission guides.
 
 ---
 
