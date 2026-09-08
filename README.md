@@ -9,6 +9,7 @@
 
 ## 🌐 SaaS Listing Directories
 
+* [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter.
 * [r/EntrepreneurRideAlong/](https://reddit.com) – r/EntrepreneurRideAlong/ is a Reddit community - participate genuinely; promotional posts get removed without…
 * [Forbes Cloud 100](https://forbes.com) – Forbes' annual ranking of the top 100 private cloud companies. Strongest brand signal in B2B.
 * [Capterra](https://www.capterra.com) – Review and comparison site for software products. Free to submit.
@@ -71,7 +72,7 @@ Please only add platforms that are **free or freemium to submit**, actively main
 
 ## 🔗 Full directory
 
-This list is curated from the [Launch Llama startup directory tracker](https://tools.launchllama.co/tools/launch-directories) — 30 hand-picked entries here, 600+ total with DR scores, dofollow filters, and submission guides.
+This list is curated from the [Launch Llama startup directory tracker](https://tools.launchllama.co/tools/launch-directories) — 31 hand-picked entries here, 600+ total with DR scores, dofollow filters, and submission guides.
 
 ---
 
