@@ -63,6 +63,7 @@
 * [Million Dot Homepage (2026)](https://milliondothomepage.com) – Million dot homepage revival featuring small product placements.
 * [StartupResources.io](https://startupresources.io) – SaaS-focused directory for B2B product discovery. Free to submit.
 * [Pabbly Connect](https://www.pabbly.com/connect) – SaaS-focused directory for B2B product discovery. Free to submit.
+* [SaaSCity](https://saascity.io) – Gamified SaaS directory — every listing becomes a building on a live isometric city map. Free to submit.
 
 ---
 
