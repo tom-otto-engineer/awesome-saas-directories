@@ -40,6 +40,7 @@
 * [Indie.Deals](https://indie.deals) – Directory for launching and promoting your product. Freemium listing options.
 * [Toolfio](https://toolfio.com) – SaaS-focused directory for B2B product discovery. Freemium listing options.
 * [Tool Finder](https://toolfinder.co) - SaaS-focused directory for B2B product discovery. Freemium listing options.
+* [MeetNewAI](https://meetnewai.com/) – Free bilingual AI tools, games, and MCP directory organized by job-to-be-done. Free to browse and submit.
 * [Million Dot Homepage (2026)](https://milliondothomepage.com) – Million dot homepage revival featuring small product placements.
 * [StartupResources.io](https://startupresources.io) – SaaS-focused directory for B2B product discovery. Free to submit.
 * [GrowthMentor](https://www.growthmentor.com) – SaaS-focused directory for B2B product discovery. Paid listing.
@@ -63,6 +64,7 @@
 * [Million Dot Homepage (2026)](https://milliondothomepage.com) – Million dot homepage revival featuring small product placements.
 * [StartupResources.io](https://startupresources.io) – SaaS-focused directory for B2B product discovery. Free to submit.
 * [Pabbly Connect](https://www.pabbly.com/connect) – SaaS-focused directory for B2B product discovery. Free to submit.
+* [MeetNewAI](https://meetnewai.com/) – Free bilingual AI tools, games, and MCP directory organized by job-to-be-done. Free to browse and submit.
 
 ---
 
