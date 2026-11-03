@@ -44,6 +44,7 @@
 * [StartupResources.io](https://startupresources.io) – SaaS-focused directory for B2B product discovery. Free to submit.
 * [GrowthMentor](https://www.growthmentor.com) – SaaS-focused directory for B2B product discovery. Paid listing.
 * [Pabbly Connect](https://www.pabbly.com/connect) – SaaS-focused directory for B2B product discovery. Free to submit.
+* [SitePatent](https://sitepatent.com) – Directory of startups, SaaS and online tools with category and tech-stack pages. Free listing with a homepage badge, or paid from $19 one-time.
 
 ---
 
